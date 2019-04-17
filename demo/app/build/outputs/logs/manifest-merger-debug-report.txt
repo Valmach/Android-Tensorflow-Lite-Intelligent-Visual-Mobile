@@ -1,0 +1,193 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ba40a57589fe187045a6fdb6b327ee1a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dce481335a22abc2852a1a47c6fe774d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4359072e47b012fcec898802ec922d79\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\bc598a5cd70a2b2af39869434ff2beb5\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1f9bf2edb5a0dc59905fd6628007af70\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a5de3c579e482588f9c687b35e9fd29c\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d7213441ebe49720b1d5a35a0ff2cc9e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6b7084707edb7c3e113e3629be348e1a\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3bb1288eb16268600afc9884f9443cb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cc6e9be25ef4ec7fdadac8625a3e8350\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6974d79a0a2d426459a058272d13bf63\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2538ca8c364c58a1953e094783dd4ffe\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d472e38dccf3e3a89b2685a61e956827\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a27583021eb90e4ab7e88b8572268000\AndroidManifest.xml:17:1-31:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\f00535d87671dd5b07a564c08b98a331\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a840e6d72c5140aa2c3a1a6096a1776f\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:18:1-40:12
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:19:5-51
+		INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:18:1-40:12
+		INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:24:19-67
+application
+ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ba40a57589fe187045a6fdb6b327ee1a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ba40a57589fe187045a6fdb6b327ee1a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dce481335a22abc2852a1a47c6fe774d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dce481335a22abc2852a1a47c6fe774d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4359072e47b012fcec898802ec922d79\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4359072e47b012fcec898802ec922d79\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\bc598a5cd70a2b2af39869434ff2beb5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\bc598a5cd70a2b2af39869434ff2beb5\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1f9bf2edb5a0dc59905fd6628007af70\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1f9bf2edb5a0dc59905fd6628007af70\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a5de3c579e482588f9c687b35e9fd29c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a5de3c579e482588f9c687b35e9fd29c\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d7213441ebe49720b1d5a35a0ff2cc9e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d7213441ebe49720b1d5a35a0ff2cc9e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6b7084707edb7c3e113e3629be348e1a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6b7084707edb7c3e113e3629be348e1a\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3bb1288eb16268600afc9884f9443cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3bb1288eb16268600afc9884f9443cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cc6e9be25ef4ec7fdadac8625a3e8350\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cc6e9be25ef4ec7fdadac8625a3e8350\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6974d79a0a2d426459a058272d13bf63\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6974d79a0a2d426459a058272d13bf63\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2538ca8c364c58a1953e094783dd4ffe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2538ca8c364c58a1953e094783dd4ffe\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d472e38dccf3e3a89b2685a61e956827\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d472e38dccf3e3a89b2685a61e956827\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a27583021eb90e4ab7e88b8572268000\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a27583021eb90e4ab7e88b8572268000\AndroidManifest.xml:25:5-29:19
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\f00535d87671dd5b07a564c08b98a331\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\f00535d87671dd5b07a564c08b98a331\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a840e6d72c5140aa2c3a1a6096a1776f\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a840e6d72c5140aa2c3a1a6096a1776f\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:29:9-45
+activity#com.example.android.tflitecamerademo.CameraActivity
+ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:31:19-85
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ba40a57589fe187045a6fdb6b327ee1a\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ba40a57589fe187045a6fdb6b327ee1a\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dce481335a22abc2852a1a47c6fe774d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dce481335a22abc2852a1a47c6fe774d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4359072e47b012fcec898802ec922d79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\4359072e47b012fcec898802ec922d79\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\bc598a5cd70a2b2af39869434ff2beb5\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\bc598a5cd70a2b2af39869434ff2beb5\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1f9bf2edb5a0dc59905fd6628007af70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1f9bf2edb5a0dc59905fd6628007af70\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a5de3c579e482588f9c687b35e9fd29c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a5de3c579e482588f9c687b35e9fd29c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d7213441ebe49720b1d5a35a0ff2cc9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d7213441ebe49720b1d5a35a0ff2cc9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6b7084707edb7c3e113e3629be348e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6b7084707edb7c3e113e3629be348e1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3bb1288eb16268600afc9884f9443cb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3bb1288eb16268600afc9884f9443cb\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cc6e9be25ef4ec7fdadac8625a3e8350\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cc6e9be25ef4ec7fdadac8625a3e8350\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6974d79a0a2d426459a058272d13bf63\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6974d79a0a2d426459a058272d13bf63\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2538ca8c364c58a1953e094783dd4ffe\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2538ca8c364c58a1953e094783dd4ffe\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d472e38dccf3e3a89b2685a61e956827\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d472e38dccf3e3a89b2685a61e956827\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a27583021eb90e4ab7e88b8572268000\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a27583021eb90e4ab7e88b8572268000\AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\f00535d87671dd5b07a564c08b98a331\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\tensorflow-lite-1.13.1.aar\f00535d87671dd5b07a564c08b98a331\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a840e6d72c5140aa2c3a1a6096a1776f\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a840e6d72c5140aa2c3a1a6096a1776f\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ba40a57589fe187045a6fdb6b327ee1a\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vmassimo\AndroidStudioProjects\Hands-on-Tensorflow-Lite-for-Intelligent-Mobile-Apps\demo\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ba40a57589fe187045a6fdb6b327ee1a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dce481335a22abc2852a1a47c6fe774d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\dce481335a22abc2852a1a47c6fe774d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\bc598a5cd70a2b2af39869434ff2beb5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v13:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v13-26.1.0.aar\bc598a5cd70a2b2af39869434ff2beb5\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1f9bf2edb5a0dc59905fd6628007af70\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\1f9bf2edb5a0dc59905fd6628007af70\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a5de3c579e482588f9c687b35e9fd29c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\a5de3c579e482588f9c687b35e9fd29c\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d7213441ebe49720b1d5a35a0ff2cc9e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\d7213441ebe49720b1d5a35a0ff2cc9e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6b7084707edb7c3e113e3629be348e1a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\6b7084707edb7c3e113e3629be348e1a\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3bb1288eb16268600afc9884f9443cb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\a3bb1288eb16268600afc9884f9443cb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cc6e9be25ef4ec7fdadac8625a3e8350\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\cc6e9be25ef4ec7fdadac8625a3e8350\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6974d79a0a2d426459a058272d13bf63\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\6974d79a0a2d426459a058272d13bf63\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2538ca8c364c58a1953e094783dd4ffe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\2538ca8c364c58a1953e094783dd4ffe\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d472e38dccf3e3a89b2685a61e956827\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\d472e38dccf3e3a89b2685a61e956827\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a27583021eb90e4ab7e88b8572268000\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\a27583021eb90e4ab7e88b8572268000\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ba40a57589fe187045a6fdb6b327ee1a\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\ba40a57589fe187045a6fdb6b327ee1a\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a840e6d72c5140aa2c3a1a6096a1776f\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a840e6d72c5140aa2c3a1a6096a1776f\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\vmassimo\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\a840e6d72c5140aa2c3a1a6096a1776f\AndroidManifest.xml:26:13-58
